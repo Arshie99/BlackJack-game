@@ -1,0 +1,11 @@
+Dealer round:
+still hit until their hand hold score over or = 17
+than stick.
+If dealer score over 17 but also lower palyer score, hit.
+If score over 21, bust and player win.
+
+scoring:
+The program auto compare two score and if player win add bet score to player whole score.
+
+End:
+Game will end when score become 0 or 52 cards over.

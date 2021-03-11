@@ -1,0 +1,15 @@
+Game will end when score become 0 or 52 cards over.
+
+Bet: player will bet socre 200 if their score over 500, bet score 100 if their score under 500.
+
+2 3 4 5 6 7 8 9 10  J   Q   K    A
+2 3 4 5 6 7 8 9 10 10 10 10 1/11
+
+player round:
+If player hold score lower than 10: hit. Because if you get A you 21 win, if no the second highter
+score is 10, overall is 20. but after this round your score 14 still hit at least 7/13% you won't 
+highter than 21, until hit your score highter than 14, after stick.
+
+if dealer give you receive card and + player score < 14 hit.
+
+If player hold score highter than 14:do not hit 7/13% you will bust.
