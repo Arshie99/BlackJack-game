@@ -1,7 +1,7 @@
 # BlackJack-game
-A black jack game created as part of Program design module
+A black jack game created as part of Program design module in year 1 of DT228/TU856
 Authors: 
-●	Arshad Shad - C19485866
-●	Jeremy Owens- C19424204
-●	Kim Thai - C19358373
-●	Yushun Zeng - D18130495
+●	Arshad Shad
+●	Jeremy Owens
+●	Kim Thai
+●	Yushun Zeng
